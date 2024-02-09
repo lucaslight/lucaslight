@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in **cycling, coffee, terminal wizardry and board games**
 
-- 📫 How to reach me: **lucas@calazansluz.com**
+- 📫 How to reach me: **contact@lluz.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
