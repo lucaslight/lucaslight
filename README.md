@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently working on [empowering independent music companies with forward-thinking distribution](fuga.com)
 
-- 🌱 I’m currently learning **more about DBs, docker and terminal wizardry**
-
-- 👨‍💻 All of my projects are available at [lluz.dev](lluz.dev)
-
 - 💬 Ask me about **ruby**
 
 - 👀 I’m interested in **cycling, coffee, terminal wizardry and board games**
-
-- 📫 How to reach me: **contact@lluz.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
