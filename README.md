@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Ruby Engineer @ Fuga in Amsterdam</h3>
 
-- 🔭 I’m currently working on [empowering independent music companies with forward-thinking distribution](fuga.com)
+- 🔭 I’m currently working on [empowering independent music companies with forward-thinking distribution](https://fuga.com)
 
 - 💬 Ask me about **ruby**
 
